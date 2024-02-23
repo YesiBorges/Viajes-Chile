@@ -1,0 +1,155 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+
+#collapsibleNavbar{
+  justify-content: right;
+}
+
+
+.container-fluid {
+width: 150%;
+height: 150%;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-right: 0%;
+padding-left: 0%;
+margin-right: auto;
+margin-left: auto;
+display: flex; 
+flex-direction: row
+}
+
+.card {
+background-color: aqua;
+top: 25px;
+height: 20%;
+width: 20%;
+display: flex;
+float: left;
+justify-content:center;
+padding: 0%;
+text-align: center;
+margin-bottom: 100px;
+}
+
+.card1 {
+background-color: #000;
+display: flex;
+flex-direction: row;
+justify-content:center;
+padding: 0%;
+margin-bottom: 150px;
+float: left;
+height: 20%;
+width: 20%;
+
+}
+
+.card-tittle{
+background-color: #17a2b8;
+color: #FFFF;
+}
+.card-text{
+background-color: #17a2b8;
+color: #FFFF;
+}
+
+.container{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+
+.icons-section i {
+
+color: #fff;
+margin-top: 0;
+margin-bottom: 0;
+display: flex; 
+justify-content: center;
+margin-left: 0%;
+margin-right: 0%;
+flex-direction: row;
+}
+
+
+.slidex{
+margin-top: 30px;
+margin-bottom: 30px;
+display: flex; 
+justify-content: left;
+margin-left: 80px;
+margin-right: 80px;
+img{margin:0 18px;}
+}
+
+.sliderx img{
+margin-top: 30px;
+margin-bottom: 30px;
+display: flex; 
+justify-content: left;
+margin-left: 80px;
+margin-right: 80px;
+img{margin:0 30px;}
+}
+
+h1{
+font-family: "Cabin";
+color: #373A3C;
+font-family: 'Cabin', Bold;
+font-style: normal;
+text-align: left;
+font-weight: 700;
+}
+
+h5{
+font-family: "Cabin";
+color: #373A3C;
+font-family: 'Cabin', Regular;
+font-style: normal;
+text-align: left;
+ 
+}
+
+h6{
+font-family: "Cabin";
+color: #373A3C;
+font-family: 'Cabin', Regular;
+font-style: normal;
+text-align: left;  
+}
+
+
+p{
+font-family: "Cabin";
+color: #373A3C;
+font-family: 'Cabin', Regular;
+font-style: normal;
+text-align: left;
+font-weight: 400;  
+}
+
+span {
+background: #def3ca;
+padding: 3px;
+float: left;
+}
+
+.container-fluid{
+justify-content:center;
+display: flex;
+text-align: center;
+align-items: center
+}
+
+.open{
+justify-content:center;
+text-align: center;
+
+}
+
